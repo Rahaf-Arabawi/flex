@@ -461,7 +461,7 @@
   }
 
 /* tasks12 */
-body{
+.body{
     background-color: black;
 }
  .header{
@@ -553,4 +553,4 @@ input{
     flex-direction: column;
     flex-wrap: wrap;
     align-content:center ;
-}
+}  
